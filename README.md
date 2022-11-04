@@ -1,8 +1,6 @@
-[![paypal](https://img.shields.io/badge/-Donate-yellow.svg?longCache=true&style=for-the-badge)](https://www.paypal.me/ZdharmaInitiative)
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D54B3S7C6HGME)
-[![patreon](https://img.shields.io/badge/-Patreon-orange.svg?longCache=true&style=for-the-badge)](https://www.patreon.com/psprint)
-<br/>New: You can request a feature when donating, even fancy or advanced ones get implemented this way. [There are
-reports](DONATIONS.md) about what is being done with the money received.
+# TK's ZSH Fast-Syntax-Highlighting Fork
+
+This repo is a fork of `z-shell/F-Sy-H`. It is currently pinned to upstream version 1.5, with a small tweak to the git-commit-message-length feature (increase threshold from 50 to 70 characters).
 
 # Fast Syntax Highlighting (F-Sy-H)
 
